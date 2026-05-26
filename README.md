@@ -5,6 +5,8 @@
 **Lớp:** 58KTP <br>
 **Trường:** Đại học Kỹ thuật Công nghiệp - Đại học Thái Nguyên (TNUT)  
 
+# Link YOUTUBE: https://youtu.be/1mh9-LXbUXg
+
 ---
 
 ## 1. Mục tiêu bài toán
