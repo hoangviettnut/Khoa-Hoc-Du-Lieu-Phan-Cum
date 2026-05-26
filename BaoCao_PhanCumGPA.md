@@ -2,7 +2,7 @@
 
 **Sinh viên thực hiện:** Lương Hoàng Việt  
 **Mã sinh viên:** K225480106073  
-**Trường:** Đại học Kỹ thuật Công nghiệp - Đại học Thái Nguyên (TNUT)  
+**Lớp:** 58KTP
 
 ---
 
